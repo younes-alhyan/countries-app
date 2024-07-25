@@ -160,10 +160,17 @@ span {
   background-color: var(--Elements);
   border-radius: 3px;
   color: var(--text-color);
-  padding: 10px 32px;
+  padding: 10px 24px;
   margin: 75px 0;
   font-weight: 300;
   width: fit-content;
+  gap: 15px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+#back-icon{
+  height: 18px;
 }
 .country-details {
   width: 100%;
