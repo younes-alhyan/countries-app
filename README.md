@@ -1,4 +1,4 @@
-# 📁 Countries App
+# 📂 Countries App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1554826345/Challenges/yhq5ihanseyinzwblaw1.jpg)
 
